@@ -2,21 +2,29 @@ h5{text-align: right;
 tex
 }
 
-#body {text-align:left;}
+#body {text-align:left;
+}
 
 .apple { width: 250px; /* Adjust as needed */
-    height: 400px; /* Adjust as needed */
+    height: 375px; /* Adjust as needed */
     float: right;
 }
 
 .pasta { width: 250px; /* Adjust as needed */
-    height: 400px; /* Adjust as needed */
+    height: 375px; /* Adjust as needed */
     float: right;
 }
 
 .shrimp { width: 250px; /* Adjust as needed */
-    height: 400px; /* Adjust as needed */
+    height: 375px; /* Adjust as needed */
     float: right;
-
     
+}
+
+
+body {
+    background-image: url('images/denim.webp'); /* Path to your background image */
+    background-repeat: repeat; /* Repeat the background image */
+    background-size: auto; /* Adjust as needed */
+    background-position: top left; /* Optional: Start from top-left corner */
 }
