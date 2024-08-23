@@ -4,15 +4,14 @@
   right: 16px;
     color: black;
   }
+  
 
-  h2{
-    
-  }
+
   .container {
       
     position: relative;
     left: 1100px;
-    bottom: 100px;
+    bottom: 200px;
     right: 0px;
   text-align: center;
     color: white;
@@ -23,17 +22,18 @@
   .container1{
       position: relative;
     left: 850px;
-    bottom: 350px;
+    bottom: 450px;
     right: 0px;
   text-align: center;
     color: white;
     width: 200px;
     height: 250px;}
 
+
     .container2{
         position: relative;
       left: 600px;
-      bottom: 600px;
+      bottom: 700px;
       right: 0px;
     text-align: center;
       color: white;
@@ -69,10 +69,12 @@
       font-weight: bold; /* Optional: bold text for the links */
       display: block; /* Ensures padding and margins work properly */
   }
-  
-  .nav-links a:hover {
-      color: #000; /* Changes color on hover (optional) */
+
+  h2{
+    font-size: larger;
   }
+  
+  
   
   body {
       background-image: url('images/moroccan-flower.png'); 
@@ -83,4 +85,10 @@
 
   .main {background-color: white;
 height: 400px;
+}
+.mi {
+    color: red;
+}
+.health {
+    color: green;
 }
