@@ -56,14 +56,14 @@
   height: 100%;
   }
   .fresh {
-      background-color: white;
-      padding: 4px 10px 0px 12px;
-  }
-  .breakfast {
-      background-color: #88ee58;g
+    background-color: white;
+    padding: 4px 17px 0px 16px;
+}
+.breakfast {
+    background-color: #88ee58;
+    padding: 1px 17px 0px 28px;
    
-     
-  }
+}
 
 
   /* Style for the navigation links */
