@@ -10,6 +10,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
+    margin-top: 35px;
 }
 
 .header-container h1 {
@@ -71,17 +72,17 @@
       padding: 0; 
       display: flex; 
       justify-content: flex-end; 
-      margin-right: 200px;
+      margin-right: 125px;
   }
   
   .nav-links li {
-      margin-left: 20px; /* Space between menu items */
+      margin-left: 50px; /* Space between menu items */
   }
   
   .nav-links a {
-      text-decoration: none; /* Removes underline from links */
-      color: #333; /* Dark gray color for the links */
-      font-weight: bold; /* Optional: bold text for the links */
+      text-decoration: none; 
+      color: #333; 
+      font-weight: bold; 
       display: block; /* Ensures padding and margins work properly */
   }
 
@@ -100,6 +101,7 @@
 
   .main {background-color: white;
 height: 400px;
+margin-top: -40px;
 }
 .mi {
     color: red;
