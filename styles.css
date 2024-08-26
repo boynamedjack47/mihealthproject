@@ -1,7 +1,7 @@
 .bottom-right {
     position: absolute;
     bottom: 0px;
-  right: 16px;
+  right: 0px;
     color: black;
   }
   
@@ -56,9 +56,11 @@
   }
   .fresh {
       background-color: white;
+      padding: 4px 10px 0px 12px;
   }
   .breakfast {
-      background-color: #88ee58;
+      background-color: #88ee58;g
+      padding: 4px 10px 0px 12px;
   }
 
 
